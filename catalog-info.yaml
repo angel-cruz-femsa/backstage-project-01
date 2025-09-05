@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: loyalty
+  description: Loyalty program for B2C
+spec:
+  owner: digitaltitransversal/loyalty-tribe
+
